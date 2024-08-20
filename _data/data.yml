@@ -20,7 +20,7 @@ sidebar:
     website: https://tycameron.com # Include the full website URL, including "http://" or "https://".
     linkedin: tycameron
     xing: 
-    github: 
+    github: tycameron
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: /assets/ty-cameron-resume-2024.pdf 
 
     languages:
       title: Languages
