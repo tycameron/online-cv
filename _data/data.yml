@@ -68,7 +68,15 @@ experiences:
         company: Christopherson Business Travel, Salt Lake City, UT
         details: |
           - Architect and implement IT infrastructure (on-prem & cloud)
+            - Azure environment managed with Terraform deploying custom apps untilizing Kubernetes, PostgreSQL, CosmosDB and Redis
           - Build and maintain all DevOps pipelines for both on-prem and cloud environments
+            - CI/CD pipelines with Bamboo, Azure DevOps and GitHub Actions with Helm charts
+          - Manage and maintain all IT systems and infrastructure
+            - Windows (Intune), Linux (Salt Stack), Azure (Terraform), VMware Vcenter (on-prem), Kubernetes (AKS)
+          - Lead and mentor IT team members
+            - Agile methodologies, JIRA, Scrum, Kanban
+          - Implement and maintain security measures
+            - MFA, Conditional Access, SOC2, PCI DSS, GDPR, NIST
       - role: Director of IT
         time: 2014 - 2023
         company: Christopherson Business Travel, Salt Lake City, UT
