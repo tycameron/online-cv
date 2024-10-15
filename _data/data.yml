@@ -43,13 +43,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Personable and reliable technology expert with twenty years of experience where demonstrated technical competence, project management expertise, accurate timeline estimates, analytical ability, and creative problem solving skills will result in a positive contribution to company technology stack.
-      - Highly Organized
-      - Coach & leader of agile methodologies
-      - Flexible & ability to adapt
-      - Strong verbal & written communication
-      - Proven leader
-      - Strong analytical & troubleshooting abilities
+      Experienced technology professional with a solid 20-year background in designing, implementing, and managing advanced technology solutions. Known for technical precision, efficient project execution, and innovative problem-solving that enhance the company’s tech infrastructure.
+      -	Expert in systems architecture and network management
+      - Highly skilled in DevOps and automation (Docker, Kubernetes, Terraform, Helm, CI/CD pipelines)
+      - Strong in CLI across all operating sytems  (Linux, Mac and Windows)
+      - Skilled in cloud solutions, including Azure and AWS
+      - Proficient in server administration and virtualization
+      - Strong in cybersecurity practices and compliance
+      - Proven leader with a collaborative mindset
+      - Advanced analytical and troubleshooting skills for complex issues
 education:
     title: Education
     info:
@@ -67,8 +69,9 @@ experiences:
         time: 2023 - Present
         company: Christopherson Business Travel, Salt Lake City, UT
         details: |
+          - Rebuild corporate network and WiFi from ground up using Fortinet gear and configured with SD-WAN for redundancy
           - Architect and implement IT infrastructure (on-prem & cloud)
-            - Azure environment managed with Terraform deploying custom apps untilizing Kubernetes, PostgreSQL, CosmosDB and Redis
+            - Azure environment managed with Terraform deploying custom apps utilizing Kubernetes, PostgreSQL, CosmosDB and Redis
           - Build and maintain all DevOps pipelines for both on-prem and cloud environments
             - CI/CD pipelines with Bamboo, Azure DevOps and GitHub Actions with Helm charts
           - Manage and maintain all IT systems and infrastructure
@@ -143,6 +146,9 @@ skills:
         level: 90%
 
       - name: Server Administration
+        level: 98%
+      
+      - name: Network Management
         level: 98%
 
       - name: HTML5 & CSS
