@@ -65,11 +65,10 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Systems Architect / DevOps
+      - role: Systems & Platform Architect / Senior DevOps Engineer
         time: 2023 - Present
         company: Christopherson Business Travel, Salt Lake City, UT
         details: |
-          - Rebuild corporate network and WiFi from ground up using Fortinet gear and configured with SD-WAN for redundancy
           - Architect and implement IT infrastructure (on-prem & cloud)
             - Azure environment managed with Terraform deploying custom apps utilizing Kubernetes, PostgreSQL, CosmosDB and Redis
           - Build and maintain all DevOps pipelines for both on-prem and cloud environments
@@ -80,6 +79,7 @@ experiences:
             - Agile methodologies, JIRA, Scrum, Kanban
           - Implement and maintain security measures
             - MFA, Conditional Access, SOC2, PCI DSS, GDPR, NIST
+          - Rebuild corporate network and WiFi from ground up using Fortinet gear and configured with SD-WAN for redundancy
       - role: Director of IT
         time: 2014 - 2023
         company: Christopherson Business Travel, Salt Lake City, UT
