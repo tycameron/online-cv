@@ -131,7 +131,8 @@ projects:
     title: Recent Projects
     intro: 
     assignments:
-      - title: Rebuilt corporate office network and WiFi from ground up    
+      - title: Developed trust center for clients to request and view security and compliance documentation.
+      - title: Rebuilt corporate office network and WiFi from ground up.
       - title: Built multi-cloud environment with Terraform.
       - title: Architected and implemented secure auto-scaling Azure cloud-native application utilizing Kubernetes, MS SQL, CosmosDB and Redis.
       - title: Built CI/CD automation pipelines from the ground up for both on-prem and cloud environments
