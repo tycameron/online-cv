@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Ty Cameron
-    tagline: System/Platform Architect & DevOps Engineer
+    tagline: Visionary System & Platform Architect | DevOps & SecOps Strategist | Driving Innovation, Scalability, and Secure Technology Leadership
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -43,15 +43,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced technology professional with a solid background in designing, implementing, and managing advanced technology solutions. Known for technical precision, efficient project execution, and innovative problem-solving that enhance the company’s tech infrastructure.
+      Experienced technology professional with a robust background in designing, implementing, and managing advanced technology solutions, with a specialized focus on data security and governance. Proficient in aligning systems with security frameworks such as PCI DSS, GDPR, HIPAA, and ISO 27001 to ensure compliance, protect sensitive information, and mitigate risks. Renowned for technical precision, efficient project execution, and innovative problem-solving that strengthen company tech infrastructure and security posture.
       -	Expert in systems architecture and network management
-      - Highly skilled in DevOps and automation (Docker, Kubernetes, Terraform, Helm, CI/CD pipelines)
-      - Strong in CLI across all operating sytems  (Linux, Mac and Windows)
-      - Skilled in cloud solutions, including Azure and AWS
-      - Proficient in server administration and virtualization
-      - Strong in cybersecurity practices and compliance
-      - Proven leader with a collaborative mindset
-      - Advanced analytical and troubleshooting skills for complex issues
+      -	Highly skilled in DevOps and automation (Docker, Kubernetes, Terraform, Helm, CI/CD pipelines)
+      -	Proficient in data security frameworks (PCI DSS, GDPR, ISO 27001) and implementing governance practices
+      -	Strong in CLI across all operating systems (Linux, Mac, and Windows)
+      -	Skilled in cloud solutions including Azure, AWS and GCP, with a security-first approach
+      -	Proficient in server administration and virtualization for resilient and scalable environments
+      -	Advanced in cybersecurity practices, vulnerability management, and compliance strategies
+      -	Proven leader with a collaborative mindset, driving cross-functional teams to achieve goals
+      -	Exceptional analytical and troubleshooting skills for complex technical and security challenges
 education:
     title: Education
     info:
@@ -78,15 +79,20 @@ experiences:
           - Lead and mentor IT team members
             - Agile methodologies, JIRA, Scrum, Kanban
           - Implement and maintain security measures
-            - MFA, Conditional Access, SOC2, PCI DSS, GDPR, NIST
+            - MFA, Conditional Access, SOC2, PCI DSS, GDPR, ISO 127001, NIST
           - Rebuild corporate network and WiFi from ground up using Fortinet gear and configured with SD-WAN for redundancy
       - role: Director of IT
         time: 2014 - 2023
         company: Christopherson Business Travel, Salt Lake City, UT
         details: |
-          - Built in-house IT support and system administrator teams
+          - Responsible for all IT systems and infrastructure
+          - Developed in-house IT support and system administrator teams (Team of 8)
           - Continually streamline IT workflows and team structures to deliver the best and most efficient customer service to end-users.
-          - Acting CSO responsible for security assessment questionnaires for prospective clients using NIST standards for responding to PCI DSS and GDPR requirements.
+          - Created organization wide Data Governance policies and procedures.
+          - Developed trust center for clients to request and view security and compliance documentation.
+          - Implemented and maintained security measures and compliance frameworks using NIST standards
+            - MFA, Conditional Access, SOC2, PCI DSS, GDPR, CPA, ISO 127001
+          - Acting CSO responsible for security assessment questionnaires for prospective clients for responding to PCI DSS and GDPR requirements.
       - role: UI/UX Manager & Lead Designer
         time: 2011 - 2020
         company: Christopherson Business Travel, Salt Lake City, UT
@@ -152,10 +158,10 @@ skills:
         level: 98%
 
       - name: HTML5 & CSS
-        level: 82%
+        level: 94%
 
       - name: Graphics & Design
-        level: 87%
+        level: 89%
       
       - name: Databases
         level: 75%
@@ -174,5 +180,8 @@ skills:
 
       - name: Hypervisors
         level: 96%
+
+      - name: Security & Compliance (PCI DSS, GDPR, ISO 27001, NIST)
+        level: 91%
 
 footer: © 2024 Ty Cameron. All rights reserved.
