@@ -81,7 +81,8 @@ experiences:
           - Implement and maintain security measures
             - MFA, Conditional Access, SOC2, PCI DSS, GDPR, ISO 127001, NIST
           - Rebuild corporate network and WiFi from ground up using Fortinet gear and configured with SD-WAN for redundancy
-      - role: Director of IT
+          - Acting CSO responsible for security assessment questionnaires for prospective clients for responding to PCI DSS and GDPR requirements.
+      - role: Director of IT / Acting CSO
         time: 2014 - 2023
         company: Christopherson Business Travel, Salt Lake City, UT
         details: |
